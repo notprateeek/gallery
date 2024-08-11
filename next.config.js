@@ -1,5 +1,4 @@
 module.exports = {
-  output: 'export',
   images: {
     formats: ['image/avif', 'image/webp'],
     remotePatterns: [
